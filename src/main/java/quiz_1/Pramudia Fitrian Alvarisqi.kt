@@ -49,7 +49,7 @@ class `Pramudia Fitrian Alvarisqi` {
        c. keamanan, jika testing ini tidak dilakukan tentu saja akan berkemungkinan software mudah dibobol ataupun disusupi virus,
           akan lebih buruk lagi jika software yang bersangkutan menyimpan data pribadi pengguna maupun data penting seperti
           data penting perusahaan, akan membuat software ini menjadi incaran untuk dibobol karena tingkat keamanan yang
-          meragukan dan banyaknya data yang dapat dimanfaatkan didalamnya. begitu juga dengan testing-testing lainnya.
+          meragukan dan banyaknya data yang dapat dimanfaatkan didalamnya. begitu juga dengan testing-testing yang lain.
 
       [https://glints.com/id/lowongan/usability-testing-adalah/#.YmYigdpBxEY]
 
